@@ -2,65 +2,118 @@
 
 # 🍩 Donut Animation
 
-A real-time rotating ASCII 3D donut rendered entirely with Vanilla JavaScript.
+### A real-time rotating ASCII 3D donut rendered entirely with Vanilla JavaScript.
 
-<img src="assets/preview.gif" alt="Preview" width="750"/>
+<img src="assets/preview.gif" alt="Donut Animation Preview" width="800"/>
 
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<br>
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 </div>
 
 ---
 
-## 📖 About
+# 📖 About
 
-This project recreates the famous rotating ASCII donut using mathematical projection and real-time rendering in JavaScript.
+This project recreates the famous **ASCII Donut**, a rotating 3D torus rendered entirely with characters using mathematical projection and real-time animation.
 
-The animation is generated entirely through trigonometric calculations, without using Canvas, WebGL or external libraries.
+Instead of relying on Canvas, WebGL or external libraries, every frame is generated through trigonometric calculations and rendered directly inside a `<pre>` element using pure JavaScript.
 
 ---
 
-## ✨ Features
+# ✨ Features
 
-- 🍩 Rotating ASCII 3D donut
-- ⚡ Pure Vanilla JavaScript
+- 🍩 Real-time rotating ASCII donut
+- ⚡ Built with Vanilla JavaScript
 - 📐 Mathematical 3D projection
-- 🎨 ASCII lighting simulation
-- 📱 Responsive
-- 🚫 No dependencies
+- 💡 ASCII lighting simulation
+- 🎨 Responsive centered layout
+- 🚀 No frameworks or dependencies
 
 ---
 
-## 🛠 Technologies
+# 🛠️ Technologies
 
 - HTML5
 - CSS3
-- JavaScript
+- JavaScript (ES6)
 
 ---
 
-## 🚀 How to Run
+# 📷 Screenshot
 
-Clone the repository:
+<div align="center">
+
+<img src="assets/screenshot.png" alt="Screenshot" width="900"/>
+
+</div>
+
+---
+
+# 🚀 Getting Started
+
+Clone this repository:
 
 ```bash
 git clone https://github.com/yngtavin/donut-animation.git
 ```
 
-Open `index.html` in your browser.
+Open the project folder:
+
+```bash
+cd donut-animation
+```
+
+Finally, open the `index.html` file in your browser.
 
 ---
 
-## 📷 Screenshot
+# 📂 Project Structure
 
-<p align="center">
-  <img src="assets/screenshot.png" width="800">
-</p>
+```text
+donut-animation
+│
+├── assets
+│   ├── preview.gif
+│   └── screenshot.png
+│
+├── index.html
+├── style.css
+├── index.js
+├── README.md
+├── LICENSE
+└── .gitignore
+```
 
 ---
 
-## 👨‍💻 Author
+# 🧠 How It Works
 
-Made with  by **Otávio Amaro**
+The animation is generated through mathematical equations that:
+
+- Calculate the 3D coordinates of a torus.
+- Rotate the object continuously.
+- Project the 3D coordinates into 2D space.
+- Simulate lighting using ASCII characters.
+- Render every frame inside a `<pre>` element.
+
+---
+
+# 🌟 Inspiration
+
+Inspired by the classic ASCII Donut algorithm by **Andy Sloane**, recreated using modern JavaScript.
+
+---
+
+<div align="center">
+
+### 👨‍💻 Developed by
+
+# **Otávio Amaro**
+
+If you enjoyed this project, consider leaving a ⭐ on the repository.
+
+</div>
