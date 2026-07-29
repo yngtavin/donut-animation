@@ -16,7 +16,7 @@
 
 ---
 
-# 📖 About
+# About
 
 This project recreates the famous **ASCII Donut**, a rotating 3D torus rendered entirely with characters using mathematical projection and real-time animation.
 
@@ -24,7 +24,7 @@ Instead of relying on Canvas, WebGL or external libraries, every frame is genera
 
 ---
 
-# ✨ Features
+# Features
 
 - 🍩 Real-time rotating ASCII donut
 - ⚡ Built with Vanilla JavaScript
@@ -35,7 +35,7 @@ Instead of relying on Canvas, WebGL or external libraries, every frame is genera
 
 ---
 
-# 🛠️ Technologies
+# Technologies
 
 - HTML5
 - CSS3
@@ -53,7 +53,7 @@ Instead of relying on Canvas, WebGL or external libraries, every frame is genera
 
 ---
 
-# 🚀 Getting Started
+# Getting Started
 
 Clone this repository:
 
@@ -90,7 +90,7 @@ donut-animation
 
 ---
 
-# 🧠 How It Works
+# How It Works
 
 The animation is generated through mathematical equations that:
 
@@ -102,18 +102,8 @@ The animation is generated through mathematical equations that:
 
 ---
 
-# 🌟 Inspiration
-
-Inspired by the classic ASCII Donut algorithm by **Andy Sloane**, recreated using modern JavaScript.
-
----
-
-<div align="center">
-
 ### 👨‍💻 Developed by
 
 # **Otávio Amaro**
-
-If you enjoyed this project, consider leaving a ⭐ on the repository.
 
 </div>
