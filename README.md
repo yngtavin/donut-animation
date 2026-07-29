@@ -26,12 +26,12 @@ Instead of relying on Canvas, WebGL or external libraries, every frame is genera
 
 # Features
 
-- 🍩 Real-time rotating ASCII donut
-- ⚡ Built with Vanilla JavaScript
-- 📐 Mathematical 3D projection
-- 💡 ASCII lighting simulation
-- 🎨 Responsive centered layout
-- 🚀 No frameworks or dependencies
+- Real-time rotating ASCII donut
+- Built with Vanilla JavaScript
+- Mathematical 3D projection
+- ASCII lighting simulation
+- Responsive centered layout
+- No frameworks or dependencies
 
 ---
 
