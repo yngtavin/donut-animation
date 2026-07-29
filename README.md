@@ -63,4 +63,4 @@ Open `index.html` in your browser.
 
 ## 👨‍💻 Author
 
-Made with ❤️ by **Otávio Amaro**
+Made with  by **Otávio Amaro**
